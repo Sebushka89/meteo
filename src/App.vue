@@ -36,7 +36,7 @@ export default {
       weather:{},
       showDate: null,
     }
-    
+  
   },
 
   methods:{
